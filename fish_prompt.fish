@@ -1,1 +1,1 @@
-/home/atomicbomber/.local/share/omf/themes/simple-ass-prompt/fish_prompt.fish
+/home/atomicbomber/.local/share/omf/themes/default/fish_prompt.fish
