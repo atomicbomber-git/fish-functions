@@ -1,1 +1,1 @@
-/home/atomicbomber/.local/share/omf/themes/zephyr/fish_prompt.fish
+/home/atomicbomber/.local/share/omf/themes/harleen/fish_prompt.fish
