@@ -1,3 +1,4 @@
+# Defined in - @ line 2
 function pat
-	php artisan tinker
+	php artisan tinker $argv
 end
