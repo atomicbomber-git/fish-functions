@@ -1,4 +1,5 @@
 # Defined in - @ line 2
 function pas
-	php artisan serve $argv
+	fuser -k 8000/tcp
+    php artisan serve $argv
 end
